@@ -1,0 +1,7 @@
+python-telegram-bot>=21.0
+numpy
+requests
+urllib3
+arabic-reshaper
+python-bidi
+Pillow
